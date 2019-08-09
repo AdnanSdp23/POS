@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalReport_CS", "CrystalReport_CS\CrystalReport_CS.csproj", "{A40AAEE9-624D-4858-A70F-AF5A2D484ABA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CrystalReport_VB", "CrystalReport_VB\CrystalReport_VB.vbproj", "{BEC25E07-A1FF-4CC4-9604-CE7534685D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40AAEE9-624D-4858-A70F-AF5A2D484ABA}.Debug|x86.ActiveCfg = Debug|x86
+		{A40AAEE9-624D-4858-A70F-AF5A2D484ABA}.Debug|x86.Build.0 = Debug|x86
+		{A40AAEE9-624D-4858-A70F-AF5A2D484ABA}.Release|x86.ActiveCfg = Release|x86
+		{A40AAEE9-624D-4858-A70F-AF5A2D484ABA}.Release|x86.Build.0 = Release|x86
+		{BEC25E07-A1FF-4CC4-9604-CE7534685D94}.Debug|x86.ActiveCfg = Debug|x86
+		{BEC25E07-A1FF-4CC4-9604-CE7534685D94}.Debug|x86.Build.0 = Debug|x86
+		{BEC25E07-A1FF-4CC4-9604-CE7534685D94}.Release|x86.ActiveCfg = Release|x86
+		{BEC25E07-A1FF-4CC4-9604-CE7534685D94}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
